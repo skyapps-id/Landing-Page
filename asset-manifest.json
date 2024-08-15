@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Landing-Page/static/css/main.3febd03f.css",
-    "main.js": "/Landing-Page/static/js/main.e0d56118.js",
+    "main.js": "/Landing-Page/static/js/main.b3b641d7.js",
     "static/js/453.7fa4cae2.chunk.js": "/Landing-Page/static/js/453.7fa4cae2.chunk.js",
     "static/media/banner-1-indhome.jpg": "/Landing-Page/static/media/banner-1-indhome.313e6db7e0d69cbac5eb.jpg",
     "static/media/banner-2-indhome.jpg": "/Landing-Page/static/media/banner-2-indhome.eb62e015b73ffca8972c.jpg",
     "static/media/tentang-kami-home.png": "/Landing-Page/static/media/tentang-kami-home.38862cf0fe319d6af4da.png",
     "index.html": "/Landing-Page/index.html",
     "main.3febd03f.css.map": "/Landing-Page/static/css/main.3febd03f.css.map",
-    "main.e0d56118.js.map": "/Landing-Page/static/js/main.e0d56118.js.map",
+    "main.b3b641d7.js.map": "/Landing-Page/static/js/main.b3b641d7.js.map",
     "453.7fa4cae2.chunk.js.map": "/Landing-Page/static/js/453.7fa4cae2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3febd03f.css",
-    "static/js/main.e0d56118.js"
+    "static/js/main.b3b641d7.js"
   ]
 }
